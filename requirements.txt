@@ -2,3 +2,4 @@ fastapi
 aiofiles
 python-multipart
 uvicorn
+loguru==0.7.2
